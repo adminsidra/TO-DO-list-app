@@ -33,7 +33,9 @@ It demonstrates the core concepts of React such as **components, props, state ma
 - **npm / yarn** → Package manager
 - **Create React App (CRA)** → Project bootstrapping tool
 
-## 🎥 Demo Preview
+## 🖼️ App Homepage
+<img width="1920" height="1022" alt="to do list ss" src="https://github.com/user-attachments/assets/e33f5232-bb8c-42a4-89fa-4a18bd95610e" />
+
 
 
 
