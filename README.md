@@ -35,6 +35,5 @@ It demonstrates the core concepts of React such as **components, props, state ma
 
 ## 🎥 Demo Preview
 
-![Todo App Demo](./todo-app-demo.gif)
 
 
